@@ -30,11 +30,9 @@ Frontend web application for pet product management and ordering system.
 
 <img width="400" height="860" alt="image" src="https://github.com/user-attachments/assets/7ad0a816-dc11-41d7-87e3-1675522bab79" />
 
-<img width="400" height="860" alt="image" src="https://github.com/user-attachments/assets/7a6be3aa-59de-452b-b600-af73eb162f5a" />
 
 <img width="400" height="860" alt="image" src="https://github.com/user-attachments/assets/9d40fcb1-c863-4fdd-ab6d-7f1de0cf6328" />
 
-<img width="400" height="860" alt="image" src="https://github.com/user-attachments/assets/a86fdd18-0f8a-49d8-9ed8-ccc4685c0510" />
 
 <img width="400" height="860" alt="image" src="https://github.com/user-attachments/assets/06b722eb-bfae-414c-98d0-554e1441c76c" />
 
@@ -42,11 +40,6 @@ Frontend web application for pet product management and ordering system.
 
 <img width="400" height="860" alt="image" src="https://github.com/user-attachments/assets/7e5d5b18-a9ae-4719-965a-d88c9f6eb526" />
 
-<img width="400" height="860" alt="image" src="https://github.com/user-attachments/assets/6c80033d-b071-4973-a85d-bc0d4284ab24" />
-
-<img width="400" height="860" alt="image" src="https://github.com/user-attachments/assets/7165dca2-1878-4c88-be45-bca4c9ff7c2e" />
-
-<img width="400" height="860" alt="image" src="https://github.com/user-attachments/assets/0c61f16e-e216-48cb-95d3-d4965d536e76" />
 
 <img width="400" height="860" alt="image" src="https://github.com/user-attachments/assets/9e88e0f2-97b2-47c3-9e84-1e7bbb068113" />
 
@@ -54,7 +47,6 @@ Frontend web application for pet product management and ordering system.
 
 <img width="400" height="860" alt="image" src="https://github.com/user-attachments/assets/b4838482-5e60-419a-9bd5-938482c43d76" />
 
-<img width="400" height="860" alt="image" src="https://github.com/user-attachments/assets/de1589fc-8b5c-4c36-89d8-d75910ab8552" />
 
 **Admin**
 
